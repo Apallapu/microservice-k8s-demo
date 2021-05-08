@@ -1,6 +1,0 @@
-spring:
-  application:
-    name: newbus-service
-
-newbus:
-  url: http://spring-boot-svc.default.svc.cluster.local:8080/bus/v1
