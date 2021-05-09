@@ -50,6 +50,10 @@ service/dashboard-metrics-scraper created
 
 deployment.apps/dashboard-metrics-scraper created
 
+Run the below command to open kubernetes dashboard.
+
+ kubectl proxy
+
 ![image](https://user-images.githubusercontent.com/43247702/117545997-d7854700-b045-11eb-9312-1488435ab6fb.png)
 
  At this point, we could technically start the Kubernetes Dashboard, but you'd be presented with the following login screen:
