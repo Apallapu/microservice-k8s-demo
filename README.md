@@ -1,9 +1,12 @@
 # microservice-k8s-demo
 /microservice-k8s-demo
 
-# How to microservice-k8s-demo application.
+# How to run microservice-k8s-demo application.
 
-  1. kubernetes Deployments
+It will cover below concepts in kubernetes
+
+
+  1. kubernetes Deployments,Replicasets,pods
   2. Services
   3. Secrets
   4. Persistentence volumes and claims
