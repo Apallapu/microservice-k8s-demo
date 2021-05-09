@@ -1,5 +1,5 @@
 # microservice-k8s-demo
-/microservice-k8s-demo
+This is the repository contain the spring boot with kubernetes and inter communication between two spring boot services.
 
 # How to run microservice-k8s-demo application.
 
